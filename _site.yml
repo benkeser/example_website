@@ -1,9 +1,26 @@
 name: "Resekneb's Website"
 navbar:
-  title: "Resekneb's Website"
+  title: "Resekneb Divad"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+  - text: Home
+    href: index.html
+    icon: fa-home
+  - text: About
+    href: about.html
+    icon: fa-book-open
+  - text: Projects
+    href: projects.html
+    icon: fa-computer
+  - text: Curriculum Vitae
+    href: files/cv_full.pdf
+    icon: fa-paperclip
+  right:
+  - href: https://github.com/benkeser
+    icon: fa-github
 output_dir: docs
+output:
+  html_document:
+    theme: sandstone
+    css: style.css
+    includes: 
+      in_header: header.html

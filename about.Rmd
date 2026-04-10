@@ -1,5 +1,7 @@
 ---
-title: "About This Website"
+title: "About Me"
 ---
 
-More about this website.
+Resekneb Divad is the evil twin of renowned Biostatistician David Benkeser. 
+
+He likes to use GitHub and terrorize poor students who have to take his class.
