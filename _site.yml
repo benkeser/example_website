@@ -1,0 +1,9 @@
+name: "Resekneb's Website"
+navbar:
+  title: "Resekneb's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output_dir: docs
